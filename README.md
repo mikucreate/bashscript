@@ -5,6 +5,8 @@
 using javascript{
 
 console.log('Hello world!');
+let bashScript = 20;
+console.log(bashScript);
 };
 
 basically it would allow you to install javascript into shell scripting which makes it easier for graphics and more.
